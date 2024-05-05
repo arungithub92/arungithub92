@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I love memes**
 
+Welcome to my GitHub repository showcasing my portfolio as a Data Engineer. Here you'll find a diverse collection of projects reflecting my expertise in designing, building, and maintaining data pipelines, infrastructure, and solutions. I bring together a unique combination of skills encompassing data engineering, machine learning, cloud technologies, and creative design.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arunreturns04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunreturns04" height="30" width="40" /></a>
