@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Linux & Scripting**
 
-- 🤝 I’m looking for help with **Kafka**
+- 🤝 I’m looking for help with **AirFlow**
 
-- 💬 Ask me about **Python, SQL, Pandas, Numpy**
+- 💬 Ask me about **Python, SQL, Pandas, Numpy, Kafka, Airflow, PySpark, HTML/CSS**
 
 - 📫 How to reach me **arunreturns04@gmail.com**
 
-- ⚡ Fun fact **I love memes**
+- ⚡ Fun fact **I love coding**
 
 Welcome to my GitHub repository showcasing my portfolio as a Data Engineer. Here you'll find a diverse collection of projects reflecting my expertise in designing, building, and maintaining data pipelines, infrastructure, and solutions. I bring together a unique combination of skills encompassing data engineering, machine learning, cloud technologies, and creative design.
 
